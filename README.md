@@ -54,5 +54,3 @@ Actualmente se trabaja sobre el dataset UT interactions, que consta de 6 accione
 Dataset UT interactions
 -http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html
 
-# Repositorio
--https://github.com/oskkr123/Computer-vision
