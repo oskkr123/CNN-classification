@@ -1,4 +1,4 @@
-<p align="center"><img src="https://drive.google.com/open?id=1fVCi-TM6GigEmhX1oYgKEO870MECuTuA" width="1500" heigth="500"></p>
+<p align="center"><img src="Blank Diagram (1).jpeg" width="1500" heigth="500"></p>
 
 # Reconocimiento de actividades en video utilizando un descriptor de covarianza local
 ### Oscar Mauricio Mendoza Casas
@@ -10,7 +10,7 @@
 *2019*</br>
 <p align="center"><img src="http://garza.uis.edu.co/idayregreso/images/logoUIS.jpg" width="342" heigth="166"></p>
 
-<p align="center"><img src="https://storage.googleapis.com/kaggle-competitions/kaggle/5048/media/drivers_statefarm.png" width="1500" heigth="500"></p>
+<p align="center"><img src="ut.png" width="1500" heigth="500"></p>
 
 # Introduccion
 
