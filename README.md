@@ -1,2 +1,3 @@
-# CNN-classification
-Covariance classification using a CNN
+# Computer Vision
+Action recognition method using local covariance descriptors
+
