@@ -65,11 +65,13 @@ Actualmente se trabaja sobre el dataset UT interactions, que consta de 6 accione
 
 # Presentacion / overleaf
 
-https://drive.google.com/file/d/1KC7eBL8DKOWWOhy3mAhz2kgMOntH3me0/view?usp=sharing
-https://www.overleaf.com/read/ncfrzxyxjfvb 
+Drive \\
+- https://drive.google.com/file/d/1KC7eBL8DKOWWOhy3mAhz2kgMOntH3me0/view?usp=sharing \\
+Overleaf \\
+- https://www.overleaf.com/read/ncfrzxyxjfvb 
 
 # Referencias
 
-Dataset UT interactions
--http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html
+Dataset UT interactions \\
+- http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html
 
