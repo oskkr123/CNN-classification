@@ -30,7 +30,11 @@ Actualmente se trabaja sobre el dataset UT interactions, que consta de 6 accione
     5: Pushing - Empujar
 
 
-# Objetivo
+# Objetivo principal
+
+- Proponer un descriptor de covarianza volumetrica local con soporte en trayecto
+
+# Objetivos
 
 -Clasificar las Acciones resultado de la interaccion entre dos personas, o un sujeto individual
 
@@ -48,9 +52,24 @@ Actualmente se trabaja sobre el dataset UT interactions, que consta de 6 accione
 
 -Sistemas de alerta por deteccion de actividades.
 
+# Metodos o modelos utilizados
 
+- Bag of Words
+- Convolucional neural network - Dense neural network
+- Imagen integral
+- Trayectorias densas de movimiento
+
+# Video
+
+ https://drive.google.com/file/d/1lPnAo0DeTuJQXCtXsKZ60sxxRICiaGk-/view?usp=sharing
+
+# Presentacion / overleaf
+
+https://drive.google.com/file/d/1KC7eBL8DKOWWOhy3mAhz2kgMOntH3me0/view?usp=sharing
+https://www.overleaf.com/read/ncfrzxyxjfvb 
 
 # Referencias
+
 Dataset UT interactions
 -http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html
 
